@@ -7,4 +7,4 @@ ___
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565" alt="Это Беззубик">
 </p>
-![image_861607182149241889881](https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565a)
+
