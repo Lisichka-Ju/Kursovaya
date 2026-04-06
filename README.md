@@ -4,9 +4,4 @@ ___
 Студентка 3 курса ИПО-33.23   
 КМБ №4   
    
-   
-   
-   
-   
-   
 ![image_861607182149241889881](https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565a)
