@@ -5,5 +5,5 @@ ___
 КМБ №4   
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/f6c34e23-01d7-49d6-87a6-b0cba40d565a">
+  <img width="460" height="300" src="https://i.pinimg.com/originals/eb/49/20/eb492054790e25d68774cb51d797559f.gif">
 </p>
