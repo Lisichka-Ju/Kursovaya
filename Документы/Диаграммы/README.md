@@ -1,6 +1,6 @@
 DFD
 
-```
+```mermaid
 graph TD
     %% Внешние сущности
     Client(("Клиент"))
